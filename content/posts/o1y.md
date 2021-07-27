@@ -1,0 +1,19 @@
+---
+title: o1y-ed | snuffed out v gotg
+description: snuffed out v gotg
+date: 2019-08-29
+categories:
+  - "fights"
+tags:
+  - "capitals"
+  - "titans"
+---
+
+
+{{< youtube VyazOaxDtIo >}}
+
+br - https://fleetcom.space/battlereport/txhskBRb5LM28A3ah
+
+reddit - https://reddit.com/r/Eve/comments/csyef4/o1yed_habbening_thread/
+
+notes: lmao my titan died
