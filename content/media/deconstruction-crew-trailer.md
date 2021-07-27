@@ -7,4 +7,8 @@ tags:
 summary: 
 ---
 
-{{< youtube OBY77jJS15s >}}
+{{< rawhtml >}}<video width="640" height="360" controls>
+<source src="https://crowdfile.net/snuffed/deconstruction.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>{{< /rawhtml >}}
+
+[youtube link](https://www.youtube.com/watch?v=OBY77jJS15s)
