@@ -9,4 +9,4 @@ tags:
 ---
 
 
-wow jesus christ
+wow
