@@ -1,5 +1,5 @@
 baseurl = "https://media.snuffed.me"
-title = "lmao we're gayyyyyyyyyyyy"
+title = "snuffed out media archive"
 languageCode = "en-us"
 paginate = "10"
 theme = "binario"
@@ -34,16 +34,15 @@ theme = "binario"
 
 [menu]
   [[menu.main]]
-    identifier = "categories"
-    name = "categories"
-    url = "/categories/"
-    weight = 10
-
-  [[menu.main]]
     identifier = "tags"
     name = "tags"
     url = "/tags/"
     weight = 20
+  [[menu.main]]
+    identifier = "zkill"
+    name = "zkill"
+    url = "https://zkillboard.com/alliance/99004901/"
+    weight = 30
 
 [Params.Entry]
   meta = ["date", "categories"]
