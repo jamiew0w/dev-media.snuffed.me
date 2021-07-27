@@ -12,8 +12,9 @@ tags:
 
 {{< youtube VyazOaxDtIo >}}
 
-br - https://fleetcom.space/battlereport/txhskBRb5LM28A3ah
+{{< youtube 3wJoUdWXruU >}}
 
-reddit - https://reddit.com/r/Eve/comments/csyef4/o1yed_habbening_thread/
+br - https://fleetcom.space/battlereport/txhskBRb5LM28A3ah  
+reddit - https://reddit.com/r/Eve/comments/csyef4/o1yed_habbening_thread/  
 
 notes: lmao my titan died
