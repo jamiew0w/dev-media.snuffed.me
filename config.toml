@@ -1,5 +1,5 @@
 baseurl = "https://media.snuffed.me"
-title = "snuffed out media archive"
+title = "snuffed out media"
 languageCode = "en-us"
 paginate = "10"
 theme = "binario"

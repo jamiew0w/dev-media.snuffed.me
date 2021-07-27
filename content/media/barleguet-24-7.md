@@ -7,6 +7,7 @@ tags:
   - "damnations"
   - "caps"
   - "lowsec"
+  - "2021"
 summary: "damnations own"
 ---
 
