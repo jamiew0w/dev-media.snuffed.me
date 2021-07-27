@@ -11,8 +11,9 @@ theme = "binario"
 
 [Params]
   description = "lol"
-  copyright = "lol"
+  copyright = "media.snuffed.me"
   opengraph = true
+  categories = "fights"
   schema = true
   twitter_cards = false
   columns = 2
@@ -30,6 +31,19 @@ theme = "binario"
 #  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
 #  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
   hideNoPostsWarning = false
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags/"
+    weight = 20
 
 [Params.Entry]
   meta = ["date", "categories"]
