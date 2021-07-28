@@ -3,9 +3,6 @@ title: barleguet ustz
 description: barleguet ustz
 date: 2021-07-24
 tags:
-  - "fleet"
-  - "damnations"
-  - "caps"
   - "lowsec"
   - "2021"
 summary: "damnations own"
