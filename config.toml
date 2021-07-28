@@ -64,13 +64,13 @@ theme = "binario"
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name = "Binario"
-  shortName = "Binario"
+  name = "Snuffed Media"
+  shortName = "Snuffed Media"
   display = "browser"
   startUrl = "/"
   backgroundColor = "#2a2a2a"
   themeColor = "#1b1b1b"
-  description = "Responsive card-based & code-light Hugo theme"
+  description = "Dank frags and dank frag accessories"
   orientation = "portrait"
   scope = "/"
 
