@@ -1,6 +1,6 @@
 ---
-title: vertiso pays for his crimes
-description: vertiso pays for his crimes
+title: vertisio pays for his crimes
+description: vertisio pays for his crimes
 date: 2020-03-13
 tags:
   - "lowsec"
