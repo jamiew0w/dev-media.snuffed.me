@@ -5,8 +5,8 @@ date: 2019-06-12
 tags:
   - "lowsec"
   - "2019"
-  - "needs br"
-summary: "placeholder"
+  - "missing br"
+summary: "placeholder text cos i don't have a clue about this one"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
