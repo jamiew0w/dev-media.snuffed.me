@@ -1,0 +1,85 @@
+baseurl = "https://media.snuffed.me"
+title = "snuffed out media"
+languageCode = "en-us"
+paginate = "10"
+theme = "binario"
+
+[Author]
+  name = "snuffed out"
+  bio = "I will respect my teammates and make every best effort to foster an environment where they can perform. I understand that respect builds trust, and that trust is needed for everyone to perform their best."
+  avatar = "img/avatar.png"
+
+[Params]
+  description = "lol"
+  copyright = "media.snuffed.me"
+  opengraph = true
+  schema = true
+  twitter_cards = false
+  columns = 2
+  mainSections = ["media"]
+  dateFormat = "January 02, 2006"
+  colorTheme = "dark-blue"
+#  customCSS = ["css/custom.css"]
+#  customJS = ["js/custom.js"]
+  mainMenuAlignment = "right"
+  authorbox = true
+  comments = false
+  related = true
+  relatedMax = 5
+  mathjax = false
+#  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+#  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+  hideNoPostsWarning = false
+
+[menu]
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "zkill"
+    name = "zkill"
+    url = "https://zkillboard.com/alliance/99004901/"
+    weight = 30
+
+[Params.Entry]
+  meta = ["date", "categories"]
+  toc = false
+  tocOpen = false
+
+[Params.Featured]
+  previewOnly = false
+
+[Params.Breadcrumb]
+  enable = true
+  homeText = "media.snuffed.me"
+
+[Params.Social]
+  email = "info@snuffed.me"
+
+[Params.Share] # Entry Share block
+
+# Web App Manifest settings
+# https://www.w3.org/TR/appmanifest/
+# https://developers.google.com/web/fundamentals/web-app-manifest/
+[Params.Manifest]
+  name = "Binario"
+  shortName = "Binario"
+  display = "browser"
+  startUrl = "/"
+  backgroundColor = "#2a2a2a"
+  themeColor = "#1b1b1b"
+  description = "Responsive card-based & code-light Hugo theme"
+  orientation = "portrait"
+  scope = "/"
+
+[outputFormats]
+  [outputFormats.MANIFEST]
+    mediaType = "application/json"
+    baseName = "manifest"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "MANIFEST"]
