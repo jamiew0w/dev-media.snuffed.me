@@ -1,16 +1,15 @@
 ---
-title: lantorn staging fort welp
-description: lantorn staging fort welp
+title: lantorn fort timer
+description: lantorn fort timer
 date: 2021-03-27
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "the day rocket x fed 150 machs or something to kill a fort"
+summary: "i think this was the shield timer?"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
-<source src="https://crowdfile.net/snuffed/lantorn-staging-fort.mp4" type="video/mp4">
+<source src="https://crowdfile.net/snuffed/lantorn-fort-timer.mp4" type="video/mp4">
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=yNDgCIPkJ0A)
