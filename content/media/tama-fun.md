@@ -5,8 +5,7 @@ date: 2020-12-19
 tags:
   - "lowsec"
   - "2020"
-  - "missing context"
-summary: "missing context"
+summary: "third partying an arranged fight in tama between specter & wangs"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
