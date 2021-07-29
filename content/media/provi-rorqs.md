@@ -5,8 +5,7 @@ date: 2021-03-03
 tags:
   - "nullsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "rc rorqs are the tastiest"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
