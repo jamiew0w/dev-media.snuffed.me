@@ -5,7 +5,7 @@ date: 2021-03-22
 tags:
   - "lowsec"
   - "2021"
-summary: "rc & sg paying the iron price for a dead fort"
+summary: "rekking crew & siege green paying the iron price for a dead fort"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

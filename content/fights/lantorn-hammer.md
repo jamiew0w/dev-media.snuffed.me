@@ -1,6 +1,6 @@
 ---
-title: we drop the hammer in lantorn
-description: we drop the hammer in lantorn
+title: dropping the hammer in lantorn
+description: dropping the hammer in lantorn
 date: 2021-03-29
 tags:
   - "lowsec"

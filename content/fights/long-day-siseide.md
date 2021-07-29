@@ -1,6 +1,6 @@
 ---
-title: sg hosts us in siseide
-description: sg hosts us in siseide
+title: siege green hosts us in siseide
+description: siege green hosts us in siseide
 date: 2021-03-11
 tags:
   - "lowsec"

@@ -1,6 +1,6 @@
 ---
-title: sg gukarla azbel
-description: sg gukarla azbel
+title: siege green gukarla azbel
+description: siege green gukarla azbel
 date: 2021-03-13
 tags:
   - "lowsec"

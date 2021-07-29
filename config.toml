@@ -1,7 +1,7 @@
 baseurl = "https://media.snuffed.me"
 title = "snuffed out media"
 languageCode = "en-us"
-paginate = "10"
+paginate = "12"
 theme = "binario"
 
 [Author]
@@ -15,7 +15,7 @@ theme = "binario"
   opengraph = true
   schema = true
   twitter_cards = false
-  columns = 2
+  columns = 3
   mainSections = ["fights"]
   dateFormat = "January 02, 2006"
   colorTheme = "dark-blue"
