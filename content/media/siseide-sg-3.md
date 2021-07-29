@@ -5,8 +5,7 @@ date: 2021-03-11
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "cleaning up structures in siseide leads to a cap fight"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
