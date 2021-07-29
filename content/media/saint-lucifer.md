@@ -5,7 +5,7 @@ date: 2021-06-07
 tags:
   - "lowsec"
   - "2021"
-summary: "saint lucifer goodbye fight"
+summary: "rip rag and hel"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

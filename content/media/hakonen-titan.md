@@ -5,8 +5,7 @@ date: 2021-02-10
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "got the rag lost the isk war"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
