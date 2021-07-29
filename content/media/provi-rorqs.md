@@ -3,9 +3,10 @@ title: hunting rorqs in provi
 description: hunting rorqs in provi
 date: 2021-03-03
 tags:
-  - "lowsec"
+  - "nullsec"
   - "2021"
-summary: ""
+  - "missing context
+summary: "missing context"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
