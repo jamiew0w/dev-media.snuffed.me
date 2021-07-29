@@ -1,16 +1,15 @@
 ---
-title: lantorn with siege green
-description: lantorn with siege green
+title: we drop the hammer in lantorn
+description: we drop the hammer in lantorn
 date: 2021-03-29
 tags:
   - "lowsec"
-  - "2029"
-  - "missing context"
-summary: "missing context"
+  - "2021"
+summary: "supers/titans dropped on dread brawl"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
-<source src="https://crowdfile.net/snuffed/lantorn-sg.mp4" type="video/mp4">
+<source src="https://crowdfile.net/snuffed/lantorn-hammer.mp4" type="video/mp4">
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=VjLyt85YMpY)
