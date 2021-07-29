@@ -5,7 +5,7 @@ date: 2021-07-29
 tags:
   - "lowsec"
   - "2021"
-summary: "DREADS GO BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+summary: "DREADS GO BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
