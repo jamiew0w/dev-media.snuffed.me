@@ -5,8 +5,8 @@ date: 2016-06-07
 tags:
   - "lowsec"
   - "2021"
-  - "needs info"
-summary: "needs info"
+  - "missing context"
+summary: "missing context"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

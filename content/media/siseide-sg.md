@@ -5,8 +5,8 @@ date: 2021-04-01
 tags:
   - "lowsec"
   - "2021"
-  - "needs info"
-summary: "i miss siege green"
+  - "missing context"
+summary: "missing context"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
