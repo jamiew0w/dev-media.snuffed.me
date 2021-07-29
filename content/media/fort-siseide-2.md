@@ -1,16 +1,15 @@
 ---
-title: siseide with siege green mk2
-description: siseide with siege green mk2
+title: we lose a second fort in siseide
+description: we lose a second fort in siseide
 date: 2021-03-22
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "rc & sg paying the iron price for a dead fort"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
-<source src="https://crowdfile.net/snuffed/siseide-sg-2.mp4" type="video/mp4">
+<source src="https://crowdfile.net/snuffed/fort-siseide-2.mp4" type="video/mp4">
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=UHsCrQO_Hyg)
