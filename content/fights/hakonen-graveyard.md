@@ -14,4 +14,4 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=MjZx6PYFq3Q)
 
-# [battle report](https://br.evetools.org/br/6102a33780a5cd0019ff5af1)
+# [battle report](https://br.evetools.org/br/6102a33780a5cd0019ff5af1) | [reddit](https://old.reddit.com/r/Eve/comments/otx2lr/frat_lowsec_invasion_going_well/)
