@@ -5,8 +5,7 @@ date: 2021-04-18
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "dock workers said this azbel was unused and it dropped cap parts lol"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
