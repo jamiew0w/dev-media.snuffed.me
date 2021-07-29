@@ -1,11 +1,11 @@
 ---
 title: hunting rorqs in provi
-description: hunting rorqs in provi
+description: rc rorqs are built different
 date: 2021-03-03
 tags:
   - "nullsec"
   - "2021"
-summary: "rc rorqs are the tastiest"
+summary: "rc rorqs are built different"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

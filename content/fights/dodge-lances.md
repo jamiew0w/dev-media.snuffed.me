@@ -1,11 +1,11 @@
 ---
 title: dodging deadco lances
-description: dodging deadco lances
+description: lances are pretty, tbh
 date: 2019-08-29
 tags:
   - "nullsec"
   - "2019"
-summary: "lances are pretty tbh"
+summary: "lances are pretty, tbh"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

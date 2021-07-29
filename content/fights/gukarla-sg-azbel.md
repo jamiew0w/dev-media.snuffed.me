@@ -1,11 +1,11 @@
 ---
 title: siege green gukarla azbel
-description: siege green gukarla azbel
+description: cleanup crew to gukarla!
 date: 2021-03-13
 tags:
   - "lowsec"
   - "2021"
-summary: "cleanup crew to gukarla, siege green are littering azbels"
+summary: "cleanup crew to gukarla!"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

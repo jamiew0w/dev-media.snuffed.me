@@ -1,6 +1,6 @@
 ---
 title: when wangs lost their balls
-description: when wangs lost their balls
+description: mp2008 would refuse to fight us after this ;(
 date: 2020-10-24
 tags:
   - "lowsec"

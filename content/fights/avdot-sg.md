@@ -1,6 +1,6 @@
 ---
 title: avdot v siege green
-description: avdot v siege green
+description: china stronk avdot stronk
 date: 2019-07-08
 tags:
   - "lowsec"

@@ -1,6 +1,6 @@
 ---
-title: threes a crowd in sosala
-description: threes a crowd in sosala
+title: three's a crowd in sosala
+description: third partying an astra timer
 date: 2016-06-07
 tags:
   - "lowsec"

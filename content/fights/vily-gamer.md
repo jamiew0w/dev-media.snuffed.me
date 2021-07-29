@@ -1,6 +1,6 @@
 ---
 title: vily dropping gamer words on our prince
-description: vily dropping gamer words on our prince
+description: how dare anyone but us insult hy wanto
 date: 2019-03-23
 tags:
   - "misc"

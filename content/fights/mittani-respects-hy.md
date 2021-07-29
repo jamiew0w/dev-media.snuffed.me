@@ -1,6 +1,6 @@
 ---
 title: mittani respects hy
-description: mittani respects hy
+description: hy wanto talks more than he logs in
 date: 2018-01-01
 tags:
   - "misc"

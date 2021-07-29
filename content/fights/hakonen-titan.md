@@ -1,6 +1,6 @@
 ---
 title: hakonen titan frag
-description: hakonen titan frag
+description: got the rag, lost the isk war
 date: 2021-02-10
 tags:
   - "lowsec"

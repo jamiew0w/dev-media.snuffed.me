@@ -1,6 +1,6 @@
 ---
 title: vertisio pays for his crimes
-description: vertisio pays for his crimes
+description: lmao eat shit vertisio
 date: 2020-03-13
 tags:
   - "lowsec"

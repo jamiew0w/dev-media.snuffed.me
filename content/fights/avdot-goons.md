@@ -1,6 +1,6 @@
 ---
 title: avdot fight goons in rakapas
-description: avdot fight goons in rakapas
+description: OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 date: 2018-01-01
 tags:
   - "lowsec"

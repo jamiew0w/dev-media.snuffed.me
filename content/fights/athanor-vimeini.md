@@ -1,6 +1,6 @@
 ---
 title: athanor fight in vimeini
-description: athanor fight with vimeini
+description: 250b br over an athanor yikes
 date: 2021-02-22
 tags:
   - "lowsec"

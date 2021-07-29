@@ -1,11 +1,11 @@
 ---
 title: we lose a second fort in siseide
-description: we lose a second fort in siseide
+description: rekking crew & siege green pay the iron price
 date: 2021-03-22
 tags:
   - "lowsec"
   - "2021"
-summary: "rekking crew & siege green paying the iron price for a dead fort"
+summary: "rekking crew & siege green pay the iron price"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

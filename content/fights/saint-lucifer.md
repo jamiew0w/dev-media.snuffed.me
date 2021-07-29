@@ -1,6 +1,6 @@
 ---
 title: saint lucifer goodbye fight
-description: saint lucifer goodbye fight
+description: rip rag and hel
 date: 2021-06-07
 tags:
   - "lowsec"

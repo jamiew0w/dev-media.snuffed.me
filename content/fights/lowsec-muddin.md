@@ -1,11 +1,11 @@
 ---
 title: muddin through black rise
-description: muddin through black rise
+description: combat rorqs with joe custer
 date: 2019-07-08
 tags:
   - "lowsec"
   - "2019"
-summary: "combat rorqs and joe custer"
+summary: "combat rorqs with joe custer"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

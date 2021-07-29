@@ -1,11 +1,11 @@
 ---
 title: a killfest for killfest
-description: a killfest for killfest
+description: rest in peace, friend
 date: 2020-11-13
 tags:
   - "lowsec"
   - "2020"
-summary: "rest in peace friend"
+summary: "rest in peace, friend"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

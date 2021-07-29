@@ -1,6 +1,6 @@
 ---
 title: i don't even
-description: why is this a thing
+description: whyyyyyyyyyyyyyyyyyyyyyyyyyyy
 date: 2020-01-01
 tags:
   - "misc"

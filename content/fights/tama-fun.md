@@ -1,11 +1,11 @@
 ---
 title: fun in tama
-description: fun in tama
+description: third partying a fight between specter & wangs
 date: 2020-12-19
 tags:
   - "lowsec"
   - "2020"
-summary: "third partying an arranged fight in tama between specter & wangs"
+summary: "third partying a fight between specter & wangs"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

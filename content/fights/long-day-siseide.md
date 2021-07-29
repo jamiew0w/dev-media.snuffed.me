@@ -1,6 +1,6 @@
 ---
 title: siege green hosts us in siseide
-description: siege green hosts us in siseide
+description: 10 hour BR yikes
 date: 2021-03-11
 tags:
   - "lowsec"

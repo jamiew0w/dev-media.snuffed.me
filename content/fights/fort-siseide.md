@@ -1,6 +1,6 @@
 ---
 title: fight on our fort in siseide
-description: fight on our fort in siseide
+description: it died but they bled for it
 date: 2021-04-01
 tags:
   - "lowsec"

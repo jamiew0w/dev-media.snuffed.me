@@ -1,6 +1,6 @@
 ---
 title: vard azbel fight
-description: vard azbel fight
+description: dock workers said this azbel was unused lol
 date: 2021-04-18
 tags:
   - "lowsec"

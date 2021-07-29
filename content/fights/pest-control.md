@@ -1,6 +1,6 @@
 ---
 title: lowsec pest control
-description: lowsec pest control
+description: avdot are gigachads
 date: 2019-07-23
 tags:
   - "lowsec"

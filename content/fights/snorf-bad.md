@@ -1,6 +1,6 @@
 ---
 title: snorf bad shot goon
-description: snorf bad shot goon
+description: grr snuf hat snuf
 date: 2020-03-18
 tags:
   - "lowsec"

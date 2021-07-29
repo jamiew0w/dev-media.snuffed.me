@@ -1,6 +1,6 @@
 ---
 title: dropping the hammer in lantorn
-description: dropping the hammer in lantorn
+description: supers/titans dropped on dread brawl
 date: 2021-03-29
 tags:
   - "lowsec"

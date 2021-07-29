@@ -1,11 +1,11 @@
 ---
 title: barleguet ustz
-description: barleguet ustz
+description: damnations kick ass
 date: 2021-07-24
 tags:
   - "lowsec"
   - "2021"
-summary: "damnations own"
+summary: "damnations kick ass"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

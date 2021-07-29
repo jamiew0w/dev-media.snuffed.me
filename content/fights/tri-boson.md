@@ -1,11 +1,11 @@
 ---
 title: slapping tri with a boson
-description: slapping tri with a boson
+description: why is it always tri
 date: 2019-01-23
 tags:
   - "nullsec"
   - "2019"
-summary: "why is it always tri lol"
+summary: "why is it always tri"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

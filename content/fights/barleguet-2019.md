@@ -1,12 +1,12 @@
 ---
 title: fisticuffs in barleguet, again
-description: fisticuffs in barleguet, again
+description: i don't have a clue about this one
 date: 2019-06-12
 tags:
   - "lowsec"
   - "2019"
   - "missing br"
-summary: "placeholder text cos i don't have a clue about this one"
+summary: "i don't have a clue about this one"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

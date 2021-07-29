@@ -1,6 +1,6 @@
 ---
 title: dunking supers in aivonen
-description: dunking supers in aivonen
+description: we have a complicated history with tishu
 date: 2016-06-07
 tags:
   - "lowsec"

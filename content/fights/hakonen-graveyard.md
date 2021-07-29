@@ -1,11 +1,11 @@
 ---
 title: hakonen dread graveyard
-description: hakonen dread graveyard
+description: DREADS GO BRRRRRRRRRRRRRRRRRRRRR
 date: 2021-07-29
 tags:
   - "lowsec"
   - "2021"
-summary: "DREADS GO BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+summary: "DREADS GO BRRRRRRRRRRRRRRRRRRRRR"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>

@@ -1,6 +1,6 @@
 ---
-title: frt and dreads in p3
-description: frt and dreads in p3
+title: frt and dreads in p3en
+description: dreads go brrrrrrrrrrrrrrrrrr
 date: 2021-07-23
 tags:
   - "nullsec"

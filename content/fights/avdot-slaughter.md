@@ -1,6 +1,6 @@
 ---
 title: avdot slaughter in arlin
-description: avdot slaughter in arlin
+description: first time snuff & avdot fly together
 date: 2019-04-05
 tags:
   - "lowsec"
