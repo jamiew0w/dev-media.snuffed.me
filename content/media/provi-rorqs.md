@@ -5,7 +5,7 @@ date: 2021-03-03
 tags:
   - "nullsec"
   - "2021"
-  - "missing context
+  - "missing context"
 summary: "missing context"
 ---
 
