@@ -14,4 +14,10 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=VjLyt85YMpY)
 
-# [battle report](https://br.evetools.org/related/30002540/202103290200)
+{{< rawhtml >}}<video width="640" height="360" controls>
+<source src="https://crowdfile.net/snuffed/lantorn-hammer-2.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>{{< /rawhtml >}}
+
+[youtube link](https://www.youtube.com/watch?v=pUX8PwPsf7o)
+
+# [battle report](https://br.evetools.org/related/30002540/202103290200) | reddit: [1](https://www.reddit.com/r/Eve/comments/mfglaw/how_to_kill_a_fort_without_feeding_50_machariels/), [2](https://www.reddit.com/r/Eve/comments/mfxfda/snuffed_out_vs_rc_480b_isk_fight_subcapaeon_pov/)
