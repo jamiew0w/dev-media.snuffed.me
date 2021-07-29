@@ -14,4 +14,4 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=HFay8D4994I)
 
-# [br](https://zkillboard.com/related/30001388/202003132000/)
+# [battle report](https://zkillboard.com/related/30001388/202003132000/)

@@ -14,4 +14,4 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=cPcDE57gkVw)
 
-# [br](https://br.evetools.org/br/60fb18c280a5cd0019ff56f7)
+# [battle report](https://br.evetools.org/br/60fb18c280a5cd0019ff56f7)
