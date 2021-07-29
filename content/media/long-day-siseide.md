@@ -1,15 +1,15 @@
 ---
-title: siseide with siege green mk3
-description: siseide with siege green mk3
+title: sg hosts us in siseide
+description: sg hosts us in siseide
 date: 2021-03-11
 tags:
   - "lowsec"
   - "2021"
-summary: "cleaning up structures in siseide leads to a cap fight"
+summary: "10 hour BR yikes"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
-<source src="https://crowdfile.net/snuffed/siseide-sg-3.mp4" type="video/mp4">
+<source src="https://crowdfile.net/snuffed/long-day-siseide.mp4" type="video/mp4">
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=rx3xtdSKEEY)
