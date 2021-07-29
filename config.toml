@@ -10,7 +10,7 @@ theme = "binario"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "lol"
+  description = "snuffed out media archive"
   copyright = "media.snuffed.me"
   opengraph = true
   schema = true
