@@ -1,12 +1,11 @@
 ---
-title: sosala
-description: sosala
+title: threes a crowd in sosala
+description: threes a crowd in sosala
 date: 2016-06-07
 tags:
   - "lowsec"
   - "2021"
-  - "missing context"
-summary: "missing context"
+summary: "third partying an astra timer"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
