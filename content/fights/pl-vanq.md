@@ -13,3 +13,5 @@ summary: "132 apostles"
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=i5r3582fTX0)
+
+# [battle report](https://zkillboard.com/related/30001445/201708202300/) | [reddit](https://www.reddit.com/r/Eve/comments/6v6bqq/video_nalvula_720_capital_ship_brawl_750_billion/)
