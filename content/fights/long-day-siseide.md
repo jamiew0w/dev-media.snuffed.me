@@ -20,4 +20,10 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=dt19eygpmzo)
 
+{{< rawhtml >}}<video width="640" height="360" controls>
+<source src="https://crowdfile.net/snuffed/long-day-siseide-2.mp4" type="video/m>
+Your browser does not support the video tag.</video>{{< /rawhtml >}}
+
+[youtube link](https://www.youtube.com/watch?v=pavm8frnyIc)
+
 # [battle report](https://br.evetools.org/br/604a071e002302001ac4d643)
