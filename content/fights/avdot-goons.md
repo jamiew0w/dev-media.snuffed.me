@@ -1,11 +1,10 @@
 ---
 title: avdot fight goons in rakapas
 description: OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-date: 2020-05-28
+date: 2020-05-27
 tags:
   - "lowsec"
   - "2020"
-  - "missing br"
 summary: "OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 ---
 
@@ -14,3 +13,5 @@ summary: "OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [bilibili link](https://www.bilibili.com/video/BV1bA411q756)
+
+# [battle report](https://zkillboard.com/related/30045349/202005271200/)
