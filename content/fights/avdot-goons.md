@@ -1,10 +1,10 @@
 ---
 title: avdot fight goons in rakapas
 description: OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-date: 2018-01-01
+date: 2020-05-28
 tags:
   - "lowsec"
-  - "2018"
+  - "2020"
   - "missing br"
 summary: "OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 ---
