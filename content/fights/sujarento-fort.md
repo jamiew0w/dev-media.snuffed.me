@@ -20,4 +20,4 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=fOLjrojlqME)
 
-# [battle report](https://br.evetools.org/br/60fb18c280a5cd0019ff56f7) | reddit: [1](https://www.reddit.com/r/Eve/comments/cgmbw6/argos_coalition_defend_freeport_fortizar_in/), [2](https://www.reddit.com/r/Eve/comments/cgmudf/ustz_goon_squad_vs_snuffpets_aar/)
+# [battle report](https://zkillboard.com/related/30002809/201907222300/) | reddit: [1](https://www.reddit.com/r/Eve/comments/cgmbw6/argos_coalition_defend_freeport_fortizar_in/), [2](https://www.reddit.com/r/Eve/comments/cgmudf/ustz_goon_squad_vs_snuffpets_aar/)
