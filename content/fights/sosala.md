@@ -1,7 +1,7 @@
 ---
 title: three's a crowd in sosala
 description: third partying an astra timer
-date: 2016-06-07
+date: 2021-06-07
 tags:
   - "lowsec"
   - "2021"
