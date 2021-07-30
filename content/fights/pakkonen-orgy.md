@@ -14,4 +14,4 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=_gAhL4JzZxY)
 
-# [battle report](https://zkillboard.com/br/115658/)
+# [battle report](https://zkillboard.com/br/115658/) | [reddit](https://www.reddit.com/r/Eve/comments/g9y6n6/pakkonen_azbel_orgy/)
