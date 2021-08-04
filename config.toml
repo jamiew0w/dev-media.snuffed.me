@@ -56,7 +56,7 @@ theme = "binario"
   homeText = "media.snuffed.me"
 
 [Params.Social]
-  email = "info@snuffed.me"
+#  email = "info@snuffed.me"
 
 [Params.Share] # Entry Share block
 
