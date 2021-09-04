@@ -14,4 +14,10 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=AAalHmk3kR4)
 
+{{< rawhtml >}}<video width="640" height="360" controls>
+<source src="https://crowdfile.net/snuffed/saving-private-drealar-2.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>{{< /rawhtml >}}
+
+[youtube link](https://www.youtube.com/watch?v=JiD4DUk0CbI)
+
 # [battle report](https://br.evetools.org/related/30005296/202108311600)
