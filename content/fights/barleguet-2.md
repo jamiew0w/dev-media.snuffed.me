@@ -26,4 +26,10 @@ Your browser does not support the video tag.</video>{{< /rawhtml >}}
 
 [youtube link](https://www.youtube.com/watch?v=uu4OH6-GGGU)
 
+{{< rawhtml >}}<video width="640" height="360" controls>
+<source src="https://crowdfile.net/snuffed/barleguet-2-4.mp4" type="video/mp4">
+Your browser does not support the video tag.</video>{{< /rawhtml >}}
+
+[youtube link](https://www.youtube.com/watch?v=gRy0W-v5OYE)
+
 # [battle report](https://br.evetools.org/br/612b22bd7e3ee10011ab7ea3)
