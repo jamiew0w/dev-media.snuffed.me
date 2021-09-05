@@ -5,7 +5,7 @@ date: 2021-09-01
 tags:
   - "misc"
   - "2021"
-summary: "whaling season"
+summary: "a collection of rorq stuff"
 ---
 
 {{< rawhtml >}}<video width="640" height="360" controls>
